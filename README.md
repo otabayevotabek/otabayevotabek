@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Image / Banner (Optional: replace with your own banner or GIF) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hi%20there,%20I'm%20YOUR_NAME%20👋&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20|%20Open%20Source%20Enthusiast&descAlignY=58&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hi%20there,%20I'm%20OTABEK%20OTABAYEV%20👋&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20|%20Open%20Source%20Enthusiast&descAlignY=58&descAlign=50" width="100%" />
 
 
   <!-- Profile Views Counter -->
@@ -43,13 +43,7 @@
 
 <div align="center">
 
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=otabayevotabek&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
   
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otabayevotabek&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
-
-  <br />
 
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=otabayevotabek&theme=radical&hide_border=true" width="97%" alt="GitHub Streak" />

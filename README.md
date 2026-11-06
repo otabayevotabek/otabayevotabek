@@ -1,54 +1,12 @@
-# Hi, I'm Otabek 👋
-
-Welcome to my GitHub profile! I use this space to share projects, experiments, and things I’m learning.
-
-## About me
-
-- 🌱 I’m currently learning: **Add what you’re learning**
-- 🔭 I’m working on: **Add a project or area of interest**
-- 💬 Ask me about: **Add your favorite topics**
-- 📫 Get in touch: **Add your preferred contact or social link**
-
-## Featured projects
-
-Add links to a few projects you’re proud of:
-
-- **[Project name](https://github.com/otabayevotabek)** — A short description of what it does.
-
-## Technologies
-
-Add the languages and tools you use here. For example: `Python` · `JavaScript` · `Git`
-
----
-
-Thanks for stopping by! ⭐
-
-
-
-
-
 <div align="center">
 
   <!-- Header Image / Banner (Optional: replace with your own banner or GIF) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hi%20there,%20I'm%20YOUR_NAME%20👋&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20|%20Open%20Source%20Enthusiast&descAlignY=58&descAlign=50" width="100%" />
 
-  <!-- Social Badges -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
 
   <!-- Profile Views Counter -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
+    <img src="https://komarev.com/ghpvc/?username=otabayevotabek&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
   </p>
 
 </div>
@@ -57,11 +15,11 @@ Thanks for stopping by! ⭐
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Project Name / Field]**
-- 🌱 I’m currently learning **[New Tech / Framework / Concept]**
-- 💬 Ask me about **[Skills / Domain, e.g., React, Go, System Design]**
-- 👯 I’m looking to collaborate on **[Open Source / Projects]**
-- ⚡ Fun fact: **[Add a fun personal or tech fact here]**
+- 🔭 Currently building **practical web applications to turn theory into production-ready software**.
+- 🌱 Sharpening my skills in **Data Structures & Algorithms, TypeScript, and system architecture**.
+- 💬 Ask me about **JavaScript, Git workflows, or what tech books I'm reading right now**.
+- 🤝 Always up for a chat about **new tech, open source, or side-project ideas**.
+- ⚡ Fun fact: **Git commit messages: "fix", "fix fix", "final fix", "actual final fix"**.
 
 ---
 
@@ -86,15 +44,15 @@ Thanks for stopping by! ⭐
 <div align="center">
 
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=otabayevotabek&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
   
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otabayevotabek&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
 
   <br />
 
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" width="97%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=otabayevotabek&theme=radical&hide_border=true" width="97%" alt="GitHub Streak" />
 
 </div>
 
@@ -107,5 +65,5 @@ Thanks for stopping by! ⭐
 
   <br />
 
-  ⭐️ From [YOUR_NAME](https://github.com/YOUR_USERNAME)
+  ⭐️ From [Otabek Otabayev](https://github.com/otabayevotabek)
 </div>
